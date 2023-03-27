@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on developing my portfolio projects and launching my own startup!
-- 🌱 I’m currently learning mainly React and Front-End Development.
-- 📫 How to reach me: Hit me up on my LinkedIn
-- ⚡ Fun fact: I started freelancing (as a graphic designer) when I was 12 years old.
-
+- 🌱 I’m currently working on Fullstack development using @t3dotgg 's t3 Stack.
+- 📫 If you'd like to chat, hit me up on my LinkedIn
+- ⚡ Fun fact: I was the main designer behind both gold and platinum certified music albums when I was just 14 years old.
