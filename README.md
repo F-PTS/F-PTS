@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Filip 👋
 
 - 🌱 I’m currently working on Fullstack development using @t3dotgg 's t3 Stack.
 - 📫 If you'd like to chat, hit me up on my LinkedIn
